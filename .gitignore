@@ -1,0 +1,14 @@
+
+###############
+#    folder   #
+###############
+/**/DROP/
+/**/TEMP/
+/**/packages/
+/**/bin/
+/**/obj/
+.vscode
+node_modules/**
+.github
+public
+
